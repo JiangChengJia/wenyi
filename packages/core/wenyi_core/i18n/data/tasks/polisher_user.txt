@@ -4,8 +4,6 @@ $style
 [Glossary]
 $glossary
 
-$source_context
-
 [$tgt_label translation to polish] ($n paragraphs)
 $numbered_target
 
